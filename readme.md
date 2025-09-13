@@ -1,5 +1,3 @@
-
-````markdown
 # Hand Gesture Recognition dengan Suara
 
 Program ini menggunakan **MediaPipe** untuk mendeteksi gesture tangan dan **gTTS + Pygame** untuk mengeluarkan suara sesuai gesture. Semua audio disimpan di folder `audio/`.
@@ -69,3 +67,4 @@ hand-gesture-sound/
 * Pastikan gesture sesuai posisi jari pada tabel untuk hasil akurat.
 
 `
+
